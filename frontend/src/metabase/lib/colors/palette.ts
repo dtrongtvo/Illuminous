@@ -7,10 +7,10 @@ export const ACCENT_COUNT = 8;
 // NOTE: DO NOT ADD COLORS WITHOUT EXTREMELY GOOD REASON AND DESIGN REVIEW
 // NOTE: KEEP SYNCRONIZED WITH COLORS.CSS
 export const colors = {
-  brand: "#509EE3",
+  brand: "#3D5AF3",
   summarize: "#88BF4D",
   filter: "#7172AD",
-  accent0: "#509EE3",
+  accent0: "#3D5AF3",
   accent1: "#88BF4D",
   accent2: "#A989C5",
   accent3: "#EF8C8C",
@@ -18,7 +18,7 @@ export const colors = {
   accent5: "#F2A86F",
   accent6: "#98D9D9",
   accent7: "#7172AD",
-  "admin-navbar": "#7172AD",
+  "admin-navbar": "#3D5AF3",
   white: "#FFFFFF",
   black: "#2E353B",
   success: "#84BB4C",

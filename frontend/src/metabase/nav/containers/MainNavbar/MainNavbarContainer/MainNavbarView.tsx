@@ -118,7 +118,7 @@ function MainNavbarView({
                     )}
                     onClick={onItemSelect}
                   >
-                    {t`Add your own data`}
+                    {t`Add new database`}
                   </AddYourOwnDataLink>
                 )}
               </>
